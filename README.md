@@ -17,4 +17,5 @@
 ```bash
 git clone <your-repo-url>
 cd frontend
+npm run dev
 ```
