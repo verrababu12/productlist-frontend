@@ -19,6 +19,7 @@ The project demonstrates:
 
 ## Project Structure
 
+```
 src/
 │- components/
 │ |- Products.jsx # Fetches data and renders product cards
@@ -31,12 +32,15 @@ src/
 │
 |- index.css # Global styles (minimal)
 
+```
+
 ## How to Run Locally
 
 ### 1. Clone the repository:
 
-git clone <url>
-cd frontend
+-git clone [<url>](https://github.com/verrababu12/productlist-frontend.git)
+
+-cd frontend
 
 2. Install dependencies:
    npm install
